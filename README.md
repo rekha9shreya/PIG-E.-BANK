@@ -1,8 +1,8 @@
 # PIG E. BANK
-I used Python and Excel for data wrangling, cleaning, and analyzing Pig E. Bank datasets. Following the investigation, I used a pivot table to create a short report describing my approach, results, and recommendations based on Pig E. Bank's business key questions. Identify the main risk factors that contribute to customer loss.
+I used Python and Excel for data wrangling, cleaning, and analyzing Pig E. Bank datasets. Following the investigation, I used a pivot table to create a short report describing my approach, results, and recommendations based on Pig E. Bank's business key questions. I also tried to identify the main risk factors that contribute to customer loss.
 
 # Data
-The Pig E. Bank dataset, created by CareerFoundry specifically for this study, provides key customer information required to analyze banking dynamics. It includes important information such as customer IDs, last names, credit scores, country of residence, gender, age, tenure, account balance, number of goods held, credit card membership status, active membership status, expected salary, and churn status, which shows if they have left the bank. These data elements serve as essential inputs for understanding customer habits to improve Pig E. Bank's activities.
+The Pig E. Bank dataset was created by CareerFoundry specifically for this study and provides key customer information required to analyze banking dynamics. It includes important information such as customer IDs, last names, credit scores, country of residence, gender, age, tenure, account balance, number of goods held, credit card membership status, active membership status, expected salary, and churn status, which shows if they have left the bank. These data elements serve as essential inputs for understanding customer habits to improve Pig E. Bank's activities.
 
 # Tools
 ### The data was analyzed using Excel for pivot table and Python as the libraries given below:
@@ -23,6 +23,6 @@ The Pig E. Bank dataset, created by CareerFoundry specifically for this study, p
   05 Sent to Client: The final report presentation in Excel.
 
   # Visualization
- The decision tree was created using the Google Docs
+ The decision tree was created using Powerpoint.
  
  All other visualizations were made in the Excel Workbook provided in the Sebt to client folder above.
